@@ -1,7 +1,7 @@
 # CSS3 Transitions
 
 CSS3 transitions allow you to transition an element from one state to another. 
-<blockquote> 
+ 
 
 div {
     width: 100px;
@@ -26,7 +26,7 @@ div:hover {
     transform: rotate(180deg);
 }
 
-</blockquote> 
+ 
 
  
 There are two parts to this example :  
